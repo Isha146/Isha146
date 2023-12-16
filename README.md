@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Isha146
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Isha
+- 👀 I’m interested in data engineering and data science
+- 🌱 I’m currently learning Big Data Engineering: Apache Spark and Databricks
+- 💞️ I’m looking to collaborate on Linkedin
+- 📫 How to reach me 
 
 <!---
 Isha146/Isha146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
